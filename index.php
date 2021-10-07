@@ -1,4 +1,3 @@
-# finalproject
 <?php 
 
     session_start();
@@ -57,5 +56,4 @@
 
 
    
-
 
